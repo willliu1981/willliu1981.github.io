@@ -1,8 +1,3 @@
----
-layout: default
-title: "WillLiu1981 Studio"
----
-
 # 歡迎來到 WillLiu1981 的專案首頁
 
 這裡是我的主要作品與專案導航。  
